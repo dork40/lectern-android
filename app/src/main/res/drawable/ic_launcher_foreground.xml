@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- An open book resting on a lectern, with a sound wave rising from its pages. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFF3E6FF"
+        android:pathData="M31,50 C38,46 46,46 53,50 L53,72 C46,68 38,68 31,72 Z" />
+    <path android:fillColor="#FFE2C6F5"
+        android:pathData="M55,50 C62,46 70,46 77,50 L77,72 C70,68 62,68 55,72 Z" />
+    <path android:fillColor="#FFF3E6FF" android:pathData="M51,74 h6 v8 h-6 z" />
+    <path android:fillColor="#FFF3E6FF" android:pathData="M43,82 h22 a2,2 0,0 1,2 2 v1 a1,1 0,0 1,-1 1 h-24 a1,1 0,0 1,-1 -1 v-1 a2,2 0,0 1,2 -2 z" />
+    <path android:fillColor="#00000000" android:strokeColor="#FFD9A8FF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M45,40 C49,34 59,34 63,40" />
+    <path android:fillColor="#00000000" android:strokeColor="#FFD9A8FF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M40,33 C47,24 61,24 68,33" />
+</vector>
